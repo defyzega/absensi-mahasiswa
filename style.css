@@ -1,0 +1,29 @@
+.datetime-container {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.logo {
+    position: absolute;
+    top: 10px;
+    left: 250px;
+    width: 3cm;
+    height: 4cm;
+}
+.header-container {
+    padding-top: 10px;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.instruction-text {
+    font-style: italic;
+    text-shadow: 1px 1px 2px gray;
+    color: #555;
+    font-size: 18px;
+}
