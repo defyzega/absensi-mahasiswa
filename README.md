@@ -1,4 +1,4 @@
-Berikut adalah format **README.md** yang lebih rapi dan mudah dicopy-paste:  
+
 
 ---
 
