@@ -1,5 +1,4 @@
 
-
 ---
 
 # Aplikasi Absensi Mahasiswa Skripsi & Tesis
@@ -41,4 +40,3 @@ Setelah menginstal XAMPP, sesuaikan konfigurasi berikut agar aplikasi dapat berj
 
 ## Lisensi
 Aplikasi ini dikembangkan untuk keperluan pribadi dan akademik. Silakan gunakan serta modifikasi sesuai kebutuhan.
-```
